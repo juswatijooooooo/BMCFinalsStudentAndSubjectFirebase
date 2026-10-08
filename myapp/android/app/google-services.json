@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "69141056270",
+    "project_id": "biodata-1e8d2",
+    "storage_bucket": "biodata-1e8d2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69141056270:android:c57cbaede7f8499596e55f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU4LENKI1F50zFoK0zaDSYEcvUqTCujtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
